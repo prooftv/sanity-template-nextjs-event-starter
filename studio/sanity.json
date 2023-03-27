@@ -1,7 +1,7 @@
 {
   "root": true,
   "project": {
-    "name": "nextjs-conference",
+    "name": "unami-live",
     "basePath": "/studio"
   },
   "api": {
